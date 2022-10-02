@@ -94,7 +94,7 @@ python3 bot.py
 /ban  - to ban a user.
 /unban  - to unban a user.
 /channel - to get list of total connected channels
-/broadcast - to broadcast a message to Ajax users
+/broadcast - to broadcast a message to MrFlicks users
 ```
 
 <b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ꜱɪᴠᴀᴋᴀʀᴛʜɪᴄᴋ](https://telegram.dog/mr_flickz) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/mrflicksott/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
