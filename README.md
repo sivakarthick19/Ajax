@@ -26,6 +26,7 @@ See<p align="center">
 - [x] ids and User info 
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
+- [x] 4GB Index Support
 
 ## Variables
 
